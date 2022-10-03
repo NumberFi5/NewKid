@@ -1,2 +1,2 @@
 # NewKid
-This is the first use GitHub.
+This is the first time use GitHub.
